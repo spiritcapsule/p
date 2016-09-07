@@ -1,0 +1,9 @@
+
+.reveal > footer {
+  font-size: 1.2rem;
+  position: fixed;
+  bottom: 1rem;
+  width: 100%;
+  text-align: center;
+  z-index: 1000;
+}
