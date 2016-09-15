@@ -1,3 +1,11 @@
+@import 'https://fonts.googleapis.com/css?family=Candal';
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: 'Candal', sans-serif;
+  font-weight: normal;
+  text-transform: initial;
+  color: #eee;
+}
 
 .reveal > footer {
   font-size: 1.2rem;
